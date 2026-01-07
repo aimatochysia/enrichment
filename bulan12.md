@@ -1,0 +1,13 @@
+Assignment 12
+
+EES
+
+Apa kendala yang anda hadapi terkait dengan pengerjaan ekerjaan dalam hal soft skills yang sudah anda jelaskan sebelumnya?
+
+Apa upaya anda dalam memperdalam / meningkatkan soft skills tersebut untuk menyelesaikan masalah / mengerjakan pekerjaan anda?
+
+Jawab:
+
+Pada awal bulan, kegiatan pengecekan hasil endurance testing serta proses log compiling dan report submission menuntut fokus tinggi dalam jangka waktu panjang, karena setiap log perlu diverifikasi satu per satu agar tidak terjadi kesalahan pada laporan akhir. Aktivitas ini membutuhkan konsentrasi berkelanjutan, terutama saat harus menyatukan hasil pengujian dari berbagai sumber ke dalam format yang konsisten. Memasuki pertengahan bulan, penulisan Software Test Report yang berlangsung beberapa hari berturut-turut menghadirkan tantangan pada endurance mental, karena pekerjaan bersifat detail oriented dan menuntut konsistensi bahasa teknis. Beban fokus meningkat ketika pekerjaan dokumentasi berjalan paralel dengan pre-interop testing dan proses debugging hasil gagal di sisi server. Tekanan konsentrasi semakin terasa saat memasuki rangkaian interop session yang diproktori langsung oleh certification team, karena setiap kesalahan kecil pada eksekusi maupun pelaporan hasil dapat berdampak langsung pada validasi produk. Menjelang akhir bulan, dukungan tim dalam penelusuran network constraint root cause membutuhkan kemampuan menjaga fokus analisis di tengah keterbatasan informasi teknis, sehingga kelelahan mental menjadi kendala yang cukup terasa
+
+Untuk menjaga fokus selama proses pengecekan endurance result dan penyusunan log di awal bulan, pekerjaan dibagi ke dalam beberapa sesi terstruktur agar konsentrasi tetap stabil dan kesalahan dapat diminimalkan. Pada fase penulisan Software Test Report, upaya menjaga endurance mental dilakukan dengan menerapkan alur penulisan bertahap, dimulai dari pengolahan data mentah, penyusunan narasi teknis, hingga penyesuaian format dokumen, sehingga beban kognitif tidak menumpuk dalam satu waktu. Selama periode pre-interop dan interop testing, peningkatan konsentrasi dilakukan dengan mempersiapkan ringkasan konfigurasi dan skenario uji sebelum sesi dimulai, agar fokus tetap terjaga saat pengujian berlangsung secara live. Ketika menghadapi tugas analisis network constraint di akhir bulan, pendekatan diskusi terarah dan pencatatan temuan sementara diterapkan untuk menjaga alur berpikir tetap sistematis. Pendekatan ini membantu mempertahankan ketelitian, memperpanjang daya tahan fokus, serta memastikan kualitas komunikasi teknis tetap terjaga meskipun beban pekerjaan bersifat intens dan berkelanjutan.

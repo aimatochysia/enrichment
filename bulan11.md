@@ -1,0 +1,13 @@
+Assignment 11
+
+EES
+
+Apa kendala yang anda hadapi terkait dengan pengerjaan ekerjaan dalam hal soft skills yang sudah anda jelaskan sebelumnya?
+
+Apa upaya anda dalam memperdalam / meningkatkan soft skills tersebut untuk menyelesaikan masalah / mengerjakan pekerjaan anda?
+
+Jawab:
+
+Selama awal hingga pertengahan bulan, kegiatan rerun sanity test dan full regression pada USB-C membutuhkan ketahanan konsentrasi yang cukup besar karena proses plug–unplug perangkat dan penekanan sensor dilakukan ribuan kali setiap hari kerja. Pola kerja yang sangat repetitif ini membuat fokus mudah terpecah, terutama ketika harus menjaga ketepatan timing pada setiap interaksi fisik dengan perangkat. Pada fase full regression USB-C yang berlangsung beberapa minggu, tantangan mental semakin terasa karena volume test scripts yang besar harus dijaga konsistensinya tanpa kesalahan kecil yang dapat memaksa pengujian ulang. Ketika pekerjaan berpindah ke USB-A setelah pembaruan firmware, aktivitas fisik yang sama kembali diulang sehingga endurance menjadi hambatan utama. Kombinasi antara tuntutan ketelitian, repetisi tinggi, dan durasi pekerjaan yang panjang menyebabkan penurunan fokus secara bertahap, yang pada akhirnya memengaruhi ritme komunikasi teknis dengan tim karena hasil harus tetap dilaporkan secara presisi meskipun kondisi tubuh dan konsentrasi sedang menurun.
+
+Untuk menjaga fokus selama periode rerun sanity test dan full regression yang membutuhkan ribuan kali plug dan unplug serta sensor pressing setiap hari, alur kerja dipecah menjadi beberapa sesi pendek agar konsentrasi tetap stabil dan tidak menurun secara tiba-tiba. Setiap selesai satu kelompok pengujian, dibuat catatan ringkas mengenai hasil dan anomali yang muncul sehingga informasi dapat disampaikan dengan jelas tanpa harus mengandalkan ingatan yang mulai lelah. Upaya menjaga endurance dilakukan dengan menjaga ritme pergerakan yang konsisten, menghindari tekanan fisik berlebih, dan memberi jeda singkat di antara rangkaian pengulangan agar kualitas pengujian tetap terjaga. Saat beralih dari USB-C ke USB-A setelah pembaruan firmware, penyesuaian kembali terhadap pola repetisi dilakukan dengan menyiapkan urutan langkah yang lebih terstruktur sehingga tubuh dan konsentrasi tidak drop mendadak. Pendekatan ini membantu mempertahankan ketelitian, menjaga kestabilan komunikasi teknis dengan tim, dan memastikan hasil pengujian tetap akurat meskipun beban repetitif dan durasi pekerjaan tinggi.
